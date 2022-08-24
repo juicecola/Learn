@@ -1,2 +1,2 @@
 # Learn
-Learn repo for git commands demostration
+Learn repo for git commands demostration.
